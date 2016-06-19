@@ -14,6 +14,7 @@
 ActiveRecord::Schema.define(version: 20160618150111) do
 
   create_table "contacts", force: true do |t|
+     
   end
 
 end
